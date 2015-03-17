@@ -1,8 +1,8 @@
 # Site settings
-title: ZeOmega TechBlog
+title: The ZeOmega Tech Blog
 email: techblog@zeomega.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the ZeOmega blog focused on technology.  We'll share our ideas,
+  This is the ZeOmega blog focusing on technology.  We'll share our ideas,
   challenges related to our software stack to create Jiva, our
   flagship product.
 baseurl: "" # the subpath of your site, e.g. /blog/
